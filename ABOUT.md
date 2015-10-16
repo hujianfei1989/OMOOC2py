@@ -1,17 +1,8 @@
-# 有关
-~ 汇集这部私人教程未尽体验
-
-## TODO
 
 
-## 参考
+## 社交网络
 
-- [图灵社区 : 阅读 : 使用GitBook平台发布电子书](http://www.ituring.com.cn/article/127744)
-- [使用Gitbook来编写你的Api文档 « 悟道集](http://tao.logdown.com/posts/243192-use-gitbook-to-write-api-documentation)
+- [微博](http://www.weibo.com/hujianfei1989),日常生活的零碎想法。
+- [博客](www.sikaoa.com)，一般成文，体系的总结会写的博客。
+- [豆瓣](http://www.douban.com/people/hujianfei1989/)，书籍清单写到豆瓣
 
-
-## (￣▽￣)
-
-- 150924 ZQ 清理为学员模板
-- 150317 迁移用 开智官方 gitbook 身份
-- 150316 ZQ 创建
