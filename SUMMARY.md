@@ -1,5 +1,7 @@
 # Summary
-- [教学反转](0MOOC/README.md)
+- [课程笔记](0MOOC/README.md)
+ + [第一次课程，2015年10月10日](9class/note1.md)
+ - [第二次课程，2015年10月16日](9class/note2.md)
 - [基础旋进](1sTry/README.md)
 - [迭代作品](2nDev/README.md)
 - [人生首秀](3rDemo/README.md)
