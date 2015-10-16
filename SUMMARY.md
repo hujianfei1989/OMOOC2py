@@ -4,6 +4,6 @@
  - [课程2，2015年10月16日](9class/note2.md)
 - [Python 代码](2python/README.md)
 - [《笨办法学Python》是一本讲如何学习的书》](2python/hardlearn.md)
-- [时间管理](time/README.md)
-- [个人大数据](bigdata/README.md)
+- [时间管理](6time/README.md)
+- [个人大数据](8bigdata/README.md)
 - [有关](ABOUT.md)
